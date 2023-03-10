@@ -15,26 +15,20 @@
 
 ## 경력
 
-### ABC 주식회사
+### 몬스터 주식회사
 
 #### 대학생 (2022년 3월 - 현재)
 
-- Python, Django, PostgreSQL을 이용한 웹 애플리케이션 개발
+- Breathing, Eating을 이용한 건강한 일상생활
 - RESTful API를 활용한 서버-클라이언트 간 통신 구현
 - Git을 활용한 코드 관리 및 협업
 
-### DEF 주식회사
+#### Mulab 2기 (2022년 6월 - 현재)
 
-#### 인턴 (2017년 6월 - 2017년 12월)
-
-- Python, TensorFlow를 이용한 딥러닝 모델 학습 및 평가
-- 데이터 전처리 및 시각화를 위한 Python 라이브러리 활용
-- 리서치팀의 연구 업무 지원
+- Vectorworks를 이용한 조명 도면 제작
+- 연출팀의 무대 디자인 지원
 
 ## 보유 기술
 
-- Python
-- Django
-- RESTful API
-- TensorFlow
-- Git
+- Breathing
+- Eating
